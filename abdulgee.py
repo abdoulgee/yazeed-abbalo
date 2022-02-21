@@ -251,35 +251,3 @@ NOTE: target number with country code
 	print("successful bypassed")
 else:
 		print("check it again")
-elif a == "5":
-	print("""
-	+=========================================+
-|..........   PREMIER HACKERS   ...........|
-              ▇▇▇▇▇▇▇▇▇▇▇▇
-Author: ABDULGEE 
-
-forum: HAUSA HACKERS/HAUSA PROGRAMNERS 
-
-contact: +2348131116661
-
-fb_account: itz real Abdul gee
-
-☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠
-	 (҂`_´)
-         <,︻╦̵̵̿╤─ ҉     ~  • ABDULGEE
-█۞███████]▄▄▄▄▄▄▄▄▄▄▃ ●●●
-▂▄▅█████████▅▄▃▂…
-[███████████████████]
-◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙
-	HACK WHATSAPP BYPASS OTP 
-			""")
-			p = input("target phone number: ")
-			time.sleep(4)
-			print(""" wait..................wait.........wait.........wait.........wait..........wait""")
-			print("""
-			
-			COMING SOOOOOON
-			
-			""")
-			
-			
