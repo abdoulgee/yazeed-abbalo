@@ -16,7 +16,7 @@
 
 * https://github.com/Abdulgee773/yazeed-abbalo.git
 
-* `cd 
+* `cd yazeed-abbalo
 
-* `python
+* `python abdulgee.py
 
